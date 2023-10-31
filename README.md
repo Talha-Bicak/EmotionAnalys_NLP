@@ -32,11 +32,28 @@ Bu analiz tekniğinin ana amacı , metin verilerini anlamlandırıp,yapılandır
 
 ## Results
 
+En iyi sonuc count vectors kullanılarak Random Forest algoritması seçildi.
+
+![Accurasy_Result](img/accuracy_r.png)
+
+## Example Forecast
+
+Üzerinde tahmin yapılacak yorum metni
+
 ![Tahmin Edilecek Yorum](img/comnd.png)
 
 ## Naive Bayes
 
 ![Naive Bayes](img/result_NB.png)
+
+## Logistic Regression
+
+![Naive Bayes](img/result_LR.png)
+
+## Random Forest
+
+![Random Forest](img/result_RF.png)
+
 
 ## Contact
 
