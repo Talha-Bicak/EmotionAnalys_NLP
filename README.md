@@ -38,7 +38,7 @@ En iyi sonuc count vectors kullanılarak Random Forest algoritması seçildi.
 
 ## Example Forecast
 
-Üzerinde tahmin yapılacak yorum metni
+Üzerinde tahmin yapılacak yorum metni.
 
 ![Tahmin Edilecek Yorum](img/comnd.png)
 
